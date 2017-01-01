@@ -1,0 +1,6 @@
+DaysUntilKickoff how many days until kickoff
+DaysUntilKickoff how far away is kickoff in days
+
+HowLongUntilKickoff how much longer until kickoff
+HowLongUntilKickoff how long until kickoff
+HowLongUntilKickoff how far away is kickoff
